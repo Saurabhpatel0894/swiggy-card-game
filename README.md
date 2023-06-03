@@ -16,8 +16,9 @@ Jack (J): The next player draws 4 cards.
 Note: Actions are not stackable. For example, if a Queen is played, the next player must draw 2 cards and cannot play another Queen on their turn, even if they have it in their hand.
 
 Getting Started
-To run the game, follow these steps:
-
+Prerequisites
+Java Development Kit (JDK) installed on your machine
+Running the Game
 Clone or download the repository to your local machine.
 Open the project in your preferred Java IDE.
 Build the project to compile the code.
